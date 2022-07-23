@@ -74,7 +74,7 @@ print(f"Sarah's favorite language is {language}.")
 
 # Using get() to Access Values
 alien_0 = {'color': 'green', 'speed': 'slow'}
-print(alien_0['points'])
+# print(alien_0['points'])
 
 alien_0 = {'color': 'green', 'speed': 'slow'}
 point_value = alien_0.get('points', 'not found ') 
@@ -142,6 +142,7 @@ aliens = [alien_0, alien_1, alien_2]
 for alien in aliens:
        print(alien)
 
+input()
 
 # A List in a Dictionary
 pizza = {

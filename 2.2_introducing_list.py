@@ -7,7 +7,7 @@ names = ['string', 1, True, 1.0, ['list', 'one']]
 print(bicycles[0])
 print(names[0])
 
-print(bicycles[0].title())
+print("title",bicycles[0].title())
 
 # Using Individual Values from a List
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']

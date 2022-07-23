@@ -1,10 +1,13 @@
 print('hello world')
+var = 'awais akram'
+var.title()
+var.count('a')
 
 
-# txt = "banana"
+txt = "banana"
 
-# txt.center(10)
-# 'Awais'.casefold()
+txt.center(10)
+'Awais'.casefold()
 
 # # Underscores in Numbers
 # long_number = 10_000_000_000

@@ -11,7 +11,7 @@
 universe_age = 14_000_000_000
 
 # Multiple Assignment
-x, y, z = 0, 0, 0
+x, y, z = 0, 1, 2
 
 # Constants
 MAX_CONNECTIONS = 5000
